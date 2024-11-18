@@ -28,14 +28,14 @@
 
 <div align="center">
 <a href="https://github.com/HOSIIX">
-  <img src="https://img.shields.io/badge/Developer-6C7C4F?style=flat-square" alt="Developer">
+  <img src="https://img.shields.io/badge/Developer-6C7C4F?style=flat" alt="Developer">
 </a>
 <a href="https://github.com/HOSIIX">
-  <img src="https://img.shields.io/badge/Front%20end-0077B5?style=flat-square" alt="Front end">
+  <img src="https://img.shields.io/badge/Front%20end-0077B5?style=flat" alt="Front end">
 </a>
 <a href="https://github.com/HOSIIX">
-  <img src="https://img.shields.io/badge/Back%20end-800080?style=flat-square" alt="Back end">
+  <img src="https://img.shields.io/badge/Back%20end-800080?style=flat" alt="Back end">
 </a>
 <a href="https://github.com/HOSIIX">
-  <img src="https://img.shields.io/badge/Security-FF7F00?style=flat-square" alt="Security">
+  <img src="https://img.shields.io/badge/Security-FF7F00?style=flat" alt="Security">
 </a></div>
