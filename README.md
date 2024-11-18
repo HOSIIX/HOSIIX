@@ -26,7 +26,7 @@
 <br />
 
 
-<div style="text-align: center;">
+<div align="center">
 <a href="https://github.com/HOSIIX">
   <img src="https://img.shields.io/badge/Developer-6C7C4F?style=flat-square" alt="Developer">
 </a>
