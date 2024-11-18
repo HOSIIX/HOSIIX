@@ -19,7 +19,7 @@
   <img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" alt="HOSSII9" height="30" width="30" />
 </a>
 <a href="https://t.me/HOSSII9" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="HOSSII9" height="30" width="30" />
+  <img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/telegram.svg" alt="HOSSII9" height="30" width="30" />
 </a>
 </p>
 
