@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://instagram.com/dead.duck.dark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dead.duck.dark" height="30" width="40" /></a>
 <a href="https://t.me/HOSSII9" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Telegram_logo_2019.svg" alt="HOSSII9" height="30" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="HOSSII9" height="30" width="30" />
 </a>
 </p>
 
